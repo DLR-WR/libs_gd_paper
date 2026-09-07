@@ -1,0 +1,4 @@
+font.size : 20.0
+font.family : serif
+text.usetex : True
+text.latex.preamble : \usepackage{amsmath}\usepackage{amssymb}\usepackage{siunitx}[=v2]

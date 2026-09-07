@@ -1,0 +1,7 @@
+libskit
+matplotlib
+nlopt
+numpy
+pandas
+scipy
+jupyter
