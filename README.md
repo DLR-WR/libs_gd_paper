@@ -1,4 +1,6 @@
 [![Static Badge](https://img.shields.io/badge/Paper-10.1016%2Fj.sab.2026.107635-blue?link=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.sab.2026.107635)](https://doi.org/10.1016/j.sab.2026.107635)
+[![Static Badge](https://img.shields.io/badge/Code-LIBSkit-blue?logo=github)](https://github.com/DLR-WR/libskit)
+
  
 
 # Simulation-based calibration-free laser-induced breakdown spectroscopy using gradient optimization
