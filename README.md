@@ -1,5 +1,9 @@
-# Simulation-based calibration-free laser-induced breakdown spectroscopy using gradient optimization (Code Repository)
+![Static Badge](https://img.shields.io/badge/Paper-10.1016%2Fj.sab.2026.107635-blue?link=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.sab.2026.107635)
+ 
+
+# Simulation-based calibration-free laser-induced breakdown spectroscopy using gradient optimization
 This repo contains the code used to produce the plots and other results in the paper.
+
 For the simulation code itself, see [LIBSkit](https://github.com/DLR-WR/libskit)
 
 
