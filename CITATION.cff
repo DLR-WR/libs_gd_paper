@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: If you use this work, please cite it using the metadata from this file.
-type: article
+type: software
 title: Simulation-based calibration-free laser-induced breakdown spectroscopy using gradient optimization
 authors:
 - family-names: Egerland
@@ -19,9 +19,6 @@ authors:
   given-names: Susanne
 - family-names: Hübers
   given-names: Heinz-Wilhelm
-date-published: '2026'
-journal: 'Spectrochimica Acta Part B: Atomic Spectroscopy'
-start-page: 107635
 doi: 10.1016/j.sab.2026.107635
 url: https://www.sciencedirect.com/science/article/pii/S0584854726001862
 abstract: >-
